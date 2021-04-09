@@ -1,10 +1,15 @@
-
+*{
+    margin: 0;
+    padding: 0;
+}
 
 li{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: brown;
     font-size: large;
 }
+
+/* Dando estilo a los elementos */
 
 #contenedor{
     background-color: antiquewhite;
