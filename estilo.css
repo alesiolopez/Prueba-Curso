@@ -4,6 +4,8 @@
 }
 
 body{
+    background:linear-gradient(30deg, black,red, blue, orange, yellow);
+    background-repeat: no-repeat;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: beige;
 }
@@ -19,7 +21,6 @@ a{
 li{
     display: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: brown;
     font-size: large;
 }
 
@@ -61,7 +62,7 @@ border: black solid;
 border-radius: 6px 20px;
 /* Poner texto en mayúsculas */
 border: none;
-color: lightblue;
+color: lightcoral;
 padding: 5px 10px;
 text-align: center;
 display: inline-block;
@@ -74,8 +75,8 @@ text-decoration: none;
 }
 .btn {
 background-color: lightslategray; 
-color:whitesmoke; 
-border: 2px solid #008CBA;
+color:black; 
+border: 2px solid lightcyan;
 }
 /* Al poner el curso encima (hover) */
 .btn:hover {
