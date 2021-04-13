@@ -4,8 +4,6 @@
 }
 
 body{
-    background:linear-gradient(30deg, black,red, blue, orange, yellow);
-    background-repeat: no-repeat;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: beige;
 }
@@ -77,8 +75,8 @@ text-decoration: none;
 background-color: lightslategray; 
 color:black; 
 border: 2px solid lightcyan;
-}
 /* Al poner el curso encima (hover) */
+}
 .btn:hover {
 /* text-transform: uppercase; */
 background-color: lightgray;
